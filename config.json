@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvarse",
+        "uuid": 9155564,
+        "checksum": "pa7ec"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
